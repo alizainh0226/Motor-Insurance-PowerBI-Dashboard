@@ -3,6 +3,7 @@
 A Power BI dashboard analyzing ~800,000 motor insurance policy-years (2011–2018). The portfolio's loss ratio is 260%, and the dashboard breaks it down into claim frequency and claim severity to show which vehicle segments lose money and why.
 
 ![Dashboard overview](overview.png)
+Download `motor_insurance_dashboard.pbix` to explore the interactive version in Power BI Desktop.
 
 ## Guiding question
 Why is this portfolio's loss ratio so high, and which vehicle segments drive it?
